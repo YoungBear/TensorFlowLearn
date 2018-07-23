@@ -5,13 +5,13 @@
 **1. 安装 python3**
     下载安装包并安装。
 
-**2. 安装 TensorFlow**
+**2. 安装 TensorFlow**(pip 或 pip3 视情况而定)
 
     `pip3 install tensorflow`
 
 **3. 安装 Numpy**
 
-    `pip3 install tensorflow`
+    `pip3 install numpy`
 
 **4. 安装 Matplotlib**
 
